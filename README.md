@@ -6,7 +6,9 @@ November 17: Recommender System.ipynb
 
 The 2 datasets used for this repository are:
 1. retail.csv for Market Based Analysis with Apriori
+    https://www.kaggle.com/c/instacart-market-basket-analysis/data
 2. books.csv and ratings.csv for CB Filtering, Collaborative Filtering and Hybrid Filtering
+    https://www.kaggle.com/philippsp/book-recommender-collaborative-filtering-shiny
 
 <hr>
 Copyright 2019 Gunawan Lumban Gaol, Mike Bratanata 
