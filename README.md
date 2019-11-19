@@ -1,14 +1,16 @@
 # marketing-analytics
 Recommender System implementation in Python for Applied Machine Learning: Marketing lesson in DSA HCID Iykra 2019.
 
-## November 2019
-November 17: Recommender System.ipynb
+## 17 November 2019
+Please find two Jupyter Notebooks below in this repository:
+- Market Basket Analysis with Apriori.ipynb
+- Recommender System.ipynb
 
 The 2 datasets used for this repository are:
 1. retail.csv for Market Based Analysis with Apriori
-    https://www.kaggle.com/c/instacart-market-basket-analysis/data
+    Source: https://www.kaggle.com/c/instacart-market-basket-analysis/data
 2. books.csv and ratings.csv for CB Filtering, Collaborative Filtering and Hybrid Filtering
-    https://www.kaggle.com/philippsp/book-recommender-collaborative-filtering-shiny
+    Source: https://www.kaggle.com/philippsp/book-recommender-collaborative-filtering-shiny
 
 <hr>
 Copyright 2019 Gunawan Lumban Gaol, Mike Bratanata 
