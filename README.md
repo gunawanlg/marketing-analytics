@@ -4,6 +4,10 @@ Recommender System implementation in Python for Applied Machine Learning: Market
 ## November 2019
 November 17: Recommender System.ipynb
 
+The 2 datasets used for this repository are:
+1. retail.csv for Market Based Analysis with Apriori
+2. books.csv and ratings.csv for CB Filtering, Collaborative Filtering and Hybrid Filtering
+
 <hr>
 Copyright 2019 Gunawan Lumban Gaol, Mike Bratanata 
 
